@@ -12,7 +12,7 @@ Implement search functionality and filters.
 Test the app to ensure smooth navigation and data accuracy.
 
 
-## Recipe Application using Spooncular
+## Recipe Application using SpooncularAPI
 
 
 Loading Screen Fetching Recipes
