@@ -26,6 +26,7 @@ Browsing Recipes by Spooncular API
 
 
 Favorites Recipes
+
 ![RecipeApp2](https://github.com/user-attachments/assets/a09b9ac2-1528-40ae-b801-c9c59e451d82)
 
 
