@@ -12,7 +12,7 @@ Implement search functionality and filters.
 Test the app to ensure smooth navigation and data accuracy.
 
 
-## Recipe Application using SpooncularAPI
+## Recipe Application Yummly
 
 
 Loading Screen Fetching Recipes
@@ -20,7 +20,7 @@ Loading Screen Fetching Recipes
 ![RecipeApp](https://github.com/user-attachments/assets/d722bdaf-a5b1-41d0-b994-53b4d581c362)
 
 
-Browsing Recipes by Spooncular API
+Browsing Recipes by API
 
 ![RecipeApp1](https://github.com/user-attachments/assets/90debc69-072e-4e70-8385-06fe140a4fb8)
 
